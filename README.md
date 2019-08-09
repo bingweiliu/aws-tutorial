@@ -1,4 +1,6 @@
 # aws-tutorial
+This repo is for the aws tutorial at IEEE Cloud Summit 2019. Open the tutorial book provided by the instructer for more detailed instructions.
+
 ## Prerequisite
 
 - You should have an aws account already or create one. There won't be any cost for your aws account for this tutorial, but you do need to put your creditcard in yor aws account.
